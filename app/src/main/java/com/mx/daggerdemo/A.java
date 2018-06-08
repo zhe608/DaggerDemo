@@ -15,5 +15,6 @@ public class A {
 
     public void show(){
         Log.d("TAG", "show: this is A class");
+		Log.d("TAG", "show: this is A class");
     }
 }
